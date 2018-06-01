@@ -6,7 +6,7 @@ pipelines:
     # setting materials
     materials:
       app:
-        git: https://github.com/tw-ms-training/mst-order-service.git
+        git: https://github.com/StrokeAce/mst-order-service.git
         branch: master
     # setting stages
     stages:
