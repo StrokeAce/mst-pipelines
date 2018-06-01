@@ -6,7 +6,7 @@ pipelines:
     # setting materials
     materials:
       app:
-        git: https://github.com/tw-ms-training/mst-config-server
+        git: https://github.com/StrokeAce/mst-config-server
         branch: master
     # setting stages
     stages:
